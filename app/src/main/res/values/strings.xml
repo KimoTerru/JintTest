@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JintTest</string>
+    <string name="pls_insert_your_bin_bank_card">Please insert your bank card Bin</string>
+    <string name="bank_phone">bank phone</string>
+    <string name="bank_url">bank url</string>
+    <string name="bank_name">bank name</string>
+    <string name="bank">bank:</string>
+    <string name="country_name">country_name</string>
+    <string name="country">country:</string>
+    <string name="prepaid">prepaid</string>
+    <string name="brand">brand</string>
+    <string name="type">type</string>
+    <string name="scheme">scheme</string>
+    <string name="id_3231231312">id_3231231312</string>
+    <string name="bin_number_empl">45717360</string>
+    <string name="bin_location_empl">Ru, Moscow</string>
+    <string name="location">location:</string>
+    <string name="location_name">location name</string>
+    <string name="error_message">error message</string>
+</resources>
